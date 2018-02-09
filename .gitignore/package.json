@@ -1,0 +1,13 @@
+"name": "VoltaBot",
+"version": "1.0.0",
+"description":"",
+"main": "index.js",
+"scripts": {
+  "teat": "echo \"Error no test specified\" && exit 1"
+},
+"author": "SharpsMcpe",
+"license": "ISC",
+"dependencies": {
+   "discord.js": "11.2.1"
+ }
+}
